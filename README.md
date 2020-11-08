@@ -1,4 +1,4 @@
-*   Chapter 1: Introduction to MLOps
+*   Chapter 1: Introduction to MLOps [Noah]
     *   1.1 What is MLOps?
         *   What problem does MLOps solve
         *   How does it solve these problems?
