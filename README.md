@@ -14,7 +14,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
         *   MLOps pipelines
         
 #### Source Code Chapter 1:  
-   * [Multi-cloud Github Actions Demo]https://github.com/noahgift/github-actions-demo
+   * [Multi-cloud Github Actions Demo](https://github.com/noahgift/github-actions-demo)
 
 *   Chapter 2: MLOps in the Cloud
     *   2.1 Key Concepts in MLOps in the Cloud
