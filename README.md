@@ -5,10 +5,6 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ### Tentative Outline
 
 *   Chapter 1: Introduction to MLOps **[Noah]**
-
-Source Code:  
-
-
     *   1.1 What is MLOps?
         *   What problem does MLOps solve
         *   How does it solve these problems?
@@ -16,6 +12,9 @@ Source Code:
         *   What are the key differences?
         *   CI/CD
         *   MLOps pipelines
+        
+Source Code Chapter 1:  
+
 *   Chapter 2: MLOps in the Cloud
     *   2.1 Key Concepts in MLOps in the Cloud
         *   Data Lakes
