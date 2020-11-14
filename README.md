@@ -2,18 +2,19 @@
 
 This is a public repo where code samples are stored for the book Practical MLOps.
 
-### Tentative Outline
+## Tentative Outline
 
-*   Chapter 1: Introduction to MLOps **[Noah]**
-    *   1.1 What is MLOps?
+### Chapter 1: Introduction to MLOps **[Noah]**
+   *   1.1 What is MLOps?
         *   What problem does MLOps solve
         *   How does it solve these problems?
-    *   1.2 DevOps vs MLOps
+   *   1.2 DevOps vs MLOps
         *   What are the key differences?
         *   CI/CD
         *   MLOps pipelines
         
-Source Code Chapter 1:  
+#### Source Code Chapter 1:  
+   * [Multi-cloud Github Actions Demo]https://github.com/noahgift/github-actions-demo
 
 *   Chapter 2: MLOps in the Cloud
     *   2.1 Key Concepts in MLOps in the Cloud
