@@ -4,7 +4,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 
 ## Tentative Outline
 
-### Chapter 1: Introduction to MLOps **[Noah]**
+### Chapter 1: Introduction to MLOps
 #### Source Code Chapter 1:  
    * [Multi-cloud Github Actions Demo](https://github.com/noahgift/github-actions-demo)
 
