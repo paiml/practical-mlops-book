@@ -1,4 +1,4 @@
-## Practical MLOps, an O'Reilly Book
+## [Book]Practical MLOps, an O'Reilly Book
 
 This is a public repo where code samples are stored for the book Practical MLOps.
 
