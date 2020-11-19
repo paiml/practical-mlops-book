@@ -45,4 +45,6 @@ This is a public repo where code samples are stored for the book Practical MLOps
 
 ### References
 
-* [Practical Deep Learning for Cloud, Mobile, and Edge](https://learning.oreilly.com/library/view/practical-deep-learning/9781492034858/ch02.html#cats_vs_dogs_-_transfer_learning_in_30)
+* [Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860)
+* [Python for DevOps](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X)
+* [Cloud Computing for Data](https://noahgift.github.io/cloud-data-analysis-at-scale/)
