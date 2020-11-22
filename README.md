@@ -11,6 +11,8 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ### Chapter 2: MLOps in the Cloud
 #### Source Code Chapter 2:  
 
+   * [Flask Machine Learning](https://github.com/noahgift/flask-ml-azure-serverless) 
+
 ###   Chapter 3: Machine Learning Deployment In Production ~~Strategies~~
 #### Source Code Chapter 3: 
 
