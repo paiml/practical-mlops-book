@@ -8,10 +8,10 @@ This is a public repo where code samples are stored for the book Practical MLOps
 #### Source Code Chapter 1:  
    * [Multi-cloud Github Actions Demo](https://github.com/noahgift/github-actions-demo)
 
-### Chapter 2: MLOps in the Cloud
+### Chapter 2: MLOps Foundations
 #### Source Code Chapter 2:  
 
-   * [Flask Machine Learning](https://github.com/noahgift/flask-ml-azure-serverless) 
+   * https://github.com/noahgift/regression-concepts/blob/master/height_weight.ipynb
 
 ###   Chapter 3: Machine Learning Deployment In Production ~~Strategies~~
 #### Source Code Chapter 3: 
