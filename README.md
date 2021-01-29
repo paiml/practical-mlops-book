@@ -5,29 +5,34 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ## Tentative Outline
 
 ### Chapter 1: Introduction to MLOps
-#### Source Code Chapter 1:  
+#### Source Code Chapter 1:
    * [Multi-cloud Github Actions Demo](https://github.com/noahgift/github-actions-demo)
 
 ### Chapter 2: MLOps Foundations
-#### Source Code Chapter 2:  
+#### Source Code Chapter 2:
 
    * https://github.com/noahgift/regression-concepts/blob/master/height_weight.ipynb
 
 ###   Chapter 3: Machine Learning Deployment In Production ~~Strategies~~
-#### Source Code Chapter 3: 
+#### Source Code Chapter 3:
+
+- [Logging Examples](https://github.com/paiml/practical-mlops-book/blob/master/chapter6)
+- [Multiple Loggers](https://github.com/paiml/practical-mlops-book/blob/master/chapter6/multiple-loggers)
+- [Simple Logging](https://github.com/paiml/practical-mlops-book/blob/master/chapter6/simple-logging)
+
 
 ###   Chapter 4: Continuous Delivery for Machine Learning Models
-#### Source Code Chapter 4: 
+#### Source Code Chapter 4:
 
 ###   Chapter 5: AutoML
-#### Source Code Chapter 5: 
+#### Source Code Chapter 5:
 
 ###   Chapter 6: Monitoring and Logging for Machine Learning
 #### Source Code Chapter 6:
 
 ###   Chapter 7: MLOps for AWS
 #### Source Code Chapter 7:
-    
+
 ###   Chapter 8: MLOps for Azure
 #### Source Code Chapter 8:
 
