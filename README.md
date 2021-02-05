@@ -2,6 +2,8 @@
 
 This is a public repo where code samples are stored for the book Practical MLOps.
 
+![9781098103002](https://user-images.githubusercontent.com/58792/107072930-ab42fb80-67b4-11eb-921c-59b10be0ca34.jpeg)
+
 ## Tentative Outline
 
 ### Chapter 1: Introduction to MLOps
