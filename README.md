@@ -37,6 +37,8 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ###   Chapter 7: MLOps for AWS
 #### Source Code Chapter 7:
 
+- [Continuous Delivery for Elastic Beanstalk](https://github.com/noahgift/Flask-Elastic-Beanstalk)
+
 ###   Chapter 8: MLOps for Azure
 #### Source Code Chapter 8:
 
