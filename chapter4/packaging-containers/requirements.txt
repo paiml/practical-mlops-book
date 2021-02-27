@@ -1,0 +1,6 @@
+simpletransformers==0.4.0
+tensorboardX==1.9
+transformers==2.1.0
+flask==1.1.2
+torch==1.7.1
+onnxruntime==1.6.0
