@@ -16,6 +16,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 #### Source Code Chapter 2:
 
    * https://github.com/noahgift/regression-concepts/blob/master/height_weight.ipynb
+   * https://github.com/noahgift/or/blob/master/README.md#randomized-start-with-greedy-path-solution-for-tsp
 
 ###   Chapter 3: Machine Learning Deployment In Production ~~Strategies~~
 #### Source Code Chapter 3:
