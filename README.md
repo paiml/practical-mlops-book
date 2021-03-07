@@ -38,7 +38,11 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ###   Chapter 7: MLOps for AWS
 #### Source Code Chapter 7:
 
-- [Continuous Delivery for Elastic Beanstalk](https://github.com/noahgift/Flask-Elastic-Beanstalk)
+* [Continuous Delivery for Elastic Beanstalk](https://github.com/noahgift/Flask-Elastic-Beanstalk)
+* [ECS Fargate](https://github.com/noahgift/eks-fargate-tutorial)
+* [AWS ML Certification Exam Guide](https://noahgift.github.io/aws-ml-guide/intro)
+* [AWS Cloud Practitioner Exam Guide](https://awscp.noahgift.com/questions-answers)
+* [Free AWS Cloud Practitioner Course](https://store.paiml.com/aws-cloud-practitioner)
 
 ###   Chapter 8: MLOps for Azure
 #### Source Code Chapter 8:
