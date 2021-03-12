@@ -61,6 +61,10 @@ This is a public repo where code samples are stored for the book Practical MLOps
 #### Source Code Chapter 12:
 
 
+### Community Recipes
+
+* [Jason Adams FastAPI Sentiment Analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
+
 
 ### References
 
