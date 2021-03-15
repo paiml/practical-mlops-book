@@ -44,6 +44,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 * [AWS Cloud Practitioner Exam Guide](https://awscp.noahgift.com/questions-answers)
 * [Free AWS Cloud Practitioner Course](https://store.paiml.com/aws-cloud-practitioner)
 * [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
+* [Container From Scratch](https://github.com/noahgift/container-from-scratch-python)
 
 ###   Chapter 8: MLOps for Azure
 #### Source Code Chapter 8:
