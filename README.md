@@ -70,6 +70,7 @@ This section includes "community" recipes.  Many "may" be included in the book i
 
 * [Jason Adams: FastAPI Sentiment Analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
 * [James Salafatinos:  Tensorflow.js real-time image classification](https://github.com/james-salafatinos/webcam-ml)
+* [Nikhil Bhargava:  Sneaker Price Predict](https://github.com/nikhil-bhargava/ids-706-fp)
 
 ### References
 
