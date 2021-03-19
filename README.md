@@ -68,8 +68,8 @@ This is a public repo where code samples are stored for the book Practical MLOps
 
 This section includes "community" recipes.  Many "may" be included in the book if timing works out.
 
-* [Jason Adams FastAPI Sentiment Analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
-
+* [Jason Adams: FastAPI Sentiment Analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
+* [James Salafatinos:  Tensorflow.js real-time image classification](https://github.com/james-salafatinos/webcam-ml)
 
 ### References
 
