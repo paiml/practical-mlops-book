@@ -2,7 +2,7 @@
 
 This is a public repo where code samples are stored for the book Practical MLOps.
 
-![9781098103002](https://user-images.githubusercontent.com/58792/107072930-ab42fb80-67b4-11eb-921c-59b10be0ca34.jpeg)
+![1617813629352](https://user-images.githubusercontent.com/58792/114588914-2f05e200-9c55-11eb-829b-e24064b8d571.jpg)
 * [Read Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 
