@@ -33,6 +33,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 #### Source Code Chapter 5:
 
 * [Apple CreateML Walkthrough](https://github.com/noahgift/Apple-CreateML-AutoML-Recipes)
+* [Ludwig Text Classification](https://github.com/paiml/practical-mlops-book/blob/main/Ludwig.ipynb)
 
 ###   Chapter 6: Monitoring and Logging for Machine Learning
 #### Source Code Chapter 6:
