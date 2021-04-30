@@ -57,6 +57,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 
 * [Kubernetes Hello World](https://github.com/noahgift/kubernetes-hello-world-python-flask)
 * [gcp-flask-ml-deploy](https://github.com/noahgift/gcp-flask-ml-deploy)
+* [serverless cookbook](https://github.com/noahgift/serverless-cookbook)
 
 ###   Chapter 10: Machine Learning Interoperability
 #### Source Code Chapter 10:
