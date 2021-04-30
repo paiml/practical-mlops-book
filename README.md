@@ -56,6 +56,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 #### Source Code Chapter 9:
 
 * [Kubernetes Hello World](https://github.com/noahgift/kubernetes-hello-world-python-flask)
+* [gcp-flask-ml-deploy](https://github.com/noahgift/gcp-flask-ml-deploy)
 
 ###   Chapter 10: Machine Learning Interoperability
 #### Source Code Chapter 10:
