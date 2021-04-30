@@ -55,6 +55,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ###   Chapter 9: MLOps for GCP
 #### Source Code Chapter 9:
 
+* [Project Plan Template](https://github.com/paiml/practical-mlops-book/blob/main/Excel%20Template_Ten%20Week%20Demo%20Schedule.xlsx?raw=true)
 * [Kubernetes Hello World](https://github.com/noahgift/kubernetes-hello-world-python-flask)
 * [gcp-flask-ml-deploy](https://github.com/noahgift/gcp-flask-ml-deploy)
 * [serverless cookbook](https://github.com/noahgift/serverless-cookbook)
