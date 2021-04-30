@@ -74,6 +74,12 @@ This section includes "community" recipes.  Many "may" be included in the book i
 * [Jason Adams: FastAPI Sentiment Analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
 * [James Salafatinos:  Tensorflow.js real-time image classification](https://github.com/james-salafatinos/webcam-ml)
 * [Nikhil Bhargava:  Sneaker Price Predict](https://github.com/nikhil-bhargava/ids-706-fp)
+* [Medical Expenditures](https://github.com/joekrinke15/MLModelDeployment)
+* [Flask Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
+* [Covid Predictor](https://github.com/jingyi-xie/covid-prediction)
+* [Absenteeism at Work](https://github.com/shangwenyan/IDS721FinalProject)
+* [Chatbot Book a Holiday](https://github.com/jnganzh/chatbot-holiday/)
+
 
 ### References
 
