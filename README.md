@@ -15,6 +15,7 @@ This is a public repo where code samples are stored for the book Practical MLOps
 ### Chapter 2: MLOps Foundations
 #### Source Code Chapter 2:
 
+   * https://github.com/noahgift/cloud-bash-essentials
    * https://github.com/noahgift/regression-concepts/blob/master/height_weight.ipynb
    * https://github.com/noahgift/or/blob/master/README.md#randomized-start-with-greedy-path-solution-for-tsp
 
