@@ -84,7 +84,7 @@ This section includes "community" recipes.  Many "may" be included in the book i
 * [Covid Predictor](https://github.com/jingyi-xie/covid-prediction)
 * [Absenteeism at Work](https://github.com/shangwenyan/IDS721FinalProject)
 * [Chatbot Book a Holiday](https://github.com/jnganzh/chatbot-holiday/)
-
+* [Chest X-Ray on Baidu](https://github.com/Valarzz/Lung-Health-System)
 
 ### References
 
