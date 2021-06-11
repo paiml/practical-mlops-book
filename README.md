@@ -3,8 +3,8 @@
 This is a public repo where code samples are stored for the book Practical MLOps.
 
 ![mlops-color](https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png)
-* [Read Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
-
+* [Read Practical MLOps Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [Purchase Practical MLOps](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
 
 ## Tentative Outline
 
