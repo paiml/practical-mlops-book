@@ -91,4 +91,14 @@ This section includes "community" recipes.  Many "may" be included in the book i
 
 * [Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860)
 * [Python for DevOps](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X)
-* [Cloud Computing for Data](https://noahgift.github.io/cloud-data-analysis-at-scale/)
+* [Cloud Computing for Data](https://paiml.com/docs/home/books/cloud-computing-for-data/)
+
+#### Next Steps:  Take Coursera MLOps Course
+
+![cloud-specialization](https://user-images.githubusercontent.com/58792/121041040-650ca180-c780-11eb-956e-8d1ecb134641.png)
+
+* [Take the Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
