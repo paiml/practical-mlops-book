@@ -33,5 +33,5 @@ tensorflow==2.5.1
 termcolor==1.1.0
 tf2onnx==1.8.4
 typing-extensions==3.7.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 wrapt==1.12.1
