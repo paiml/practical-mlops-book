@@ -85,7 +85,6 @@ This section includes "community" recipes.  Many "may" be included in the book i
 * [Flask Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
 * [Covid Predictor](https://github.com/jingyi-xie/covid-prediction)
 * [Absenteeism at Work](https://github.com/shangwenyan/IDS721FinalProject)
-* [Chatbot Book a Holiday](https://github.com/jnganzh/chatbot-holiday/)
 * [Chest X-Ray on Baidu](https://github.com/Valarzz/Lung-Health-System)
 * [Streamlit Traffic Detection](https://github.com/YUA1024/YUA1024)
 
