@@ -43,7 +43,7 @@ def predict():
     else:
         numpy_func = input_ids.cpu().numpy()
 
-    inputs = {session.get_inputs()[0].name: numpy_func(input_ids)}
+    inputs = {session.get_inputs()[0].name: numpy_func}
     out = session.run(None, inputs)
 
     result = np.argmax(out)
