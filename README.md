@@ -1,3 +1,6 @@
+* [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
+* [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)
+
 ## Practical MLOps, an O'Reilly Book
 
 This is a public repo where code samples are stored for the book Practical MLOps.
@@ -103,3 +106,7 @@ This section includes "community" recipes.  Many "may" be included in the book i
 * [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
+
+
+* [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
+* [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)
