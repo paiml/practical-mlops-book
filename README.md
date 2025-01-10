@@ -1,17 +1,18 @@
-## Pragmatic AI Labs 👋
+## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
 
-* [✨Pragmatic AI Labs](ds500.paiml.com) [builds courses on edX](https://insight.paiml.com/d69)
-* [ 💬 Join our Discord community]([https://discord.gg/ZrjWxKay](https://insight.paiml.com/iw2))
+### 🔥 Hot Course Offers:
+* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
+* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
+* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
+* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
+* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
 
-### Two Elite Master’s Degrees Worth of edX Programs 👇
+### 🚀 Level Up Your Career:
+* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
+* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
+* 🏢 Trusted by Fortune 500 Teams
 
-* 📚[LLMOps](https://insight.paiml.com/j8t)
-* 📚[Rust Programming](https://insight.paiml.com/hf6)
-* 📚[MLOps](https://insight.paiml.com/ear)
-* 📚[Generative AI Fundamentals](https://insight.paiml.com/i7f)
-* 📚[Cloud Computing](https://insight.paiml.com/ccn)
-* 📚[Data Engineering](https://insight.paiml.com/36g) 
-
+Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
 ## Practical MLOps, an O'Reilly Book
 
 This is a public repo where code samples are stored for the book Practical MLOps.
