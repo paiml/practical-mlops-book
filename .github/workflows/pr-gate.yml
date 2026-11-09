@@ -3,9 +3,28 @@
 name: PR Gate
 
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, reopened]
+
+permissions:
+  contents: read
 
 jobs:
   authorize:
+    # Fork PRs never run privileged steps (paiml accepts no fork contributions).
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    permissions:
+      pull-requests: write
     uses: paiml/.github/.github/workflows/pr-gate.yml@main
+
+  no-pull-request-target:
+    # P0 guard: a workflow that reintroduces the pull_request_target trigger fails here.
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: [self-hosted, gate-light]
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: guard and its fixture test
+        run: sh scripts/guards/test-no-pull-request-target-guard.sh && sh scripts/guards/no-pull-request-target-guard.sh
