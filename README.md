@@ -112,5 +112,5 @@ This section includes "community" recipes.  Many "may" be included in the book i
 
 **Learn MLOps end to end:** [Machine Learning with Databricks and MLflow (Coursera)](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book) · [MLOps specialization, Duke (Coursera)](https://www.coursera.org/specializations/mlops-machine-learning-duke?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book) · [Machine Learning Operations program (edX)](https://www.edx.org/certificates/professional-certificate/ai-machine-learning-operations?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book)
 
-More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs: [All 20 specializations](https://lnkd.in/e9x5JVuN) · [Get the newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book)
 <!-- funnel:end -->
