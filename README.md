@@ -1,116 +1,120 @@
-## Practical MLOps, an O'Reilly Book
+# Practical MLOps: Operationalizing Machine Learning Models
 
-This is a public repo where code samples are stored for the book Practical MLOps.
+**O'Reilly Media.** Code samples for the book by Noah Gift and Alfredo Deza.
 
-![mlops-color](https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png)
-* [Read Practical MLOps Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
-* [Purchase Practical MLOps](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
+[![Pragmatic AI Labs: 25+ specializations, 125+ courses, 2M+ learners](assets/banner.png)](https://lnkd.in/e9x5JVuN)
 
-## Tentative Outline
+[Read online (O'Reilly)](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/) · [Buy on Amazon](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
+
+## Keep going: 25+ specializations, 125+ courses
+
+The book gets you started. Pragmatic AI Labs has **25+ specializations and 125+ courses** on Coursera and edX, from MLOps and cloud to Rust, LLMs and AI coding. Pick the track that matches what you came here for.
+
+| You want | Specialization or course |
+|---|---|
+| MLOps end to end | [MLOps (Duke)](https://www.coursera.org/specializations/mlops-machine-learning-duke?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Machine Learning with Databricks and MLflow](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+| Data and AI platforms | [Enterprise AI and Data Engineering on Databricks](https://www.coursera.org/specializations/enterprise-ai-data-engineering-databricks?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Applied Python Data Engineering (Duke)](https://www.coursera.org/specializations/python-data-engineering?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+| LLMs in production | [LLMOps (Duke)](https://www.coursera.org/specializations/large-language-model-operations?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Hugging Face AI Development](https://www.coursera.org/specializations/hugging-face-ai-development?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [LLM Security](https://www.coursera.org/learn/llm-security-and-vulnerabilities?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+| AI tools and coding agents | [AI Tooling](https://www.coursera.org/specializations/ai-tooling?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Claude From Zero](https://www.coursera.org/learn/claude?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [AI Debugging and Test-Driven Fixes](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+| CI/CD and GitHub | [Mastering GitHub](https://www.coursera.org/specializations/github?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [GitHub: From Zero to Pull Request](https://www.coursera.org/learn/github-zero?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+| Rust | [Rust for Data Engineering](https://www.coursera.org/specializations/rust?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Rust Programming (Duke)](https://www.coursera.org/specializations/rust-programming?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+| Cloud | [Building Cloud Computing Solutions at Scale (Duke)](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) |
+
+[**See all 25+ specializations**](https://lnkd.in/e9x5JVuN) · [Learn on edX](https://www.edx.org/school/ai?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Get the newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book)
+
+## Chapters and code
+
+Code that lives in this repo links to its folder. The rest lives in the author's other repos.
 
 ### Chapter 1: Introduction to MLOps
-#### Source Code Chapter 1:
-   * [Multi-cloud Github Actions Demo](https://github.com/noahgift/github-actions-demo)
+
+- [Multi-cloud GitHub Actions demo](https://github.com/noahgift/github-actions-demo)
 
 ### Chapter 2: MLOps Foundations
-#### Source Code Chapter 2:
 
-   * https://github.com/noahgift/cloud-bash-essentials
-   * https://github.com/noahgift/regression-concepts/blob/master/height_weight.ipynb
-   * https://github.com/noahgift/or/blob/master/README.md#randomized-start-with-greedy-path-solution-for-tsp
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chapter2)
+- [Cloud bash essentials](https://github.com/noahgift/cloud-bash-essentials)
+- [Regression concepts notebook](https://github.com/noahgift/regression-concepts/blob/master/height_weight.ipynb)
+- [Randomized start with greedy path (TSP)](https://github.com/noahgift/or/blob/master/README.md#randomized-start-with-greedy-path-solution-for-tsp)
 
-###   Chapter 3: Machine Learning Deployment In Production ~~Strategies~~
-#### Source Code Chapter 3:
+### Chapter 3: Machine Learning Deployment in Production
 
-- [Logging Examples](https://github.com/paiml/practical-mlops-book/blob/master/chapter6)
-- [Multiple Loggers](https://github.com/paiml/practical-mlops-book/blob/master/chapter6/multiple-loggers)
-- [Simple Logging](https://github.com/paiml/practical-mlops-book/blob/master/chapter6/simple-logging)
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chapter3)
+- [Logging examples](https://github.com/paiml/practical-mlops-book/tree/main/chapter6)
+- [Multiple loggers](https://github.com/paiml/practical-mlops-book/tree/main/chapter6/multiple-loggers)
+- [Simple logging](https://github.com/paiml/practical-mlops-book/tree/main/chapter6/simple-logging)
 
+### Chapter 4: Continuous Delivery for Machine Learning Models
 
-###   Chapter 4: Continuous Delivery for Machine Learning Models
-#### Source Code Chapter 4:
+- [Packaging containers](https://github.com/paiml/practical-mlops-book/tree/main/chapter4/packaging-containers)
 
-###   Chapter 5: AutoML
-#### Source Code Chapter 5:
+### Chapter 5: AutoML
 
-* [Apple CreateML Walkthrough](https://github.com/noahgift/Apple-CreateML-AutoML-Recipes)
-* [Ludwig Text Classification](https://github.com/paiml/practical-mlops-book/blob/main/Ludwig.ipynb)
-* [FLAML Hello World](https://github.com/noahgift/flaml-nba)
-* [Model Explainability](https://github.com/noahgift/model-explainability)
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chap05)
+- [Apple CreateML walkthrough](https://github.com/noahgift/Apple-CreateML-AutoML-Recipes)
+- [Ludwig text classification](https://github.com/paiml/practical-mlops-book/blob/main/Ludwig.ipynb)
+- [FLAML hello world](https://github.com/noahgift/flaml-nba)
+- [Model explainability](https://github.com/noahgift/model-explainability)
 
-###   Chapter 6: Monitoring and Logging for Machine Learning
-#### Source Code Chapter 6:
+### Chapter 6: Monitoring and Logging for Machine Learning
 
-###   Chapter 7: MLOps for AWS
-#### Source Code Chapter 7:
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chapter6)
 
-* [Continuous Delivery for Elastic Beanstalk](https://github.com/noahgift/Flask-Elastic-Beanstalk)
-* [ECS Fargate](https://github.com/noahgift/eks-fargate-tutorial)
-* [AWS ML Certification Exam Guide](https://noahgift.github.io/aws-ml-guide/intro)
-* [AWS Cloud Practitioner Exam Guide](https://awscp.noahgift.com/questions-answers)
-* [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
-* [Container From Scratch](https://github.com/noahgift/container-from-scratch-python)
+### Chapter 7: MLOps for AWS
 
-###   Chapter 8: MLOps for Azure
-#### Source Code Chapter 8:
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chapter7)
+- [Continuous delivery for Elastic Beanstalk](https://github.com/noahgift/Flask-Elastic-Beanstalk)
+- [ECS Fargate](https://github.com/noahgift/eks-fargate-tutorial)
+- [AWS ML Certification exam guide](https://noahgift.github.io/aws-ml-guide/intro)
+- [AWS Cloud Practitioner exam guide](https://awscp.noahgift.com/questions-answers)
+- [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
+- [Container from scratch](https://github.com/noahgift/container-from-scratch-python)
 
-###   Chapter 9: MLOps for GCP
-#### Source Code Chapter 9:
+### Chapter 8: MLOps for Azure
 
-* [Project Plan Template](https://github.com/paiml/practical-mlops-book/blob/main/Excel%20Template_Ten%20Week%20Demo%20Schedule.xlsx?raw=true)
-* [GCP from Zero](https://github.com/noahgift/gcp-from-zero)
-* [Kubernetes Hello World](https://github.com/noahgift/kubernetes-hello-world-python-flask)
-* [gcp-flask-ml-deploy](https://github.com/noahgift/gcp-flask-ml-deploy)
-* [serverless cookbook](https://github.com/noahgift/serverless-cookbook)
+- Code to come.
 
-###   Chapter 10: Machine Learning Interoperability
-#### Source Code Chapter 10:
+### Chapter 9: MLOps for GCP
 
-###   Chapter 11: Building MLOps command-line tools
-#### Source Code Chapter 11:
+- [Project plan template](https://github.com/paiml/practical-mlops-book/blob/main/Excel%20Template_Ten%20Week%20Demo%20Schedule.xlsx?raw=true)
+- [GCP from Zero](https://github.com/noahgift/gcp-from-zero)
+- [Kubernetes hello world](https://github.com/noahgift/kubernetes-hello-world-python-flask)
+- [GCP Flask ML deploy](https://github.com/noahgift/gcp-flask-ml-deploy)
+- [Serverless cookbook](https://github.com/noahgift/serverless-cookbook)
 
-###   Chapter 12: Machine Learning Engineering and MLOps Case Studies
-#### Source Code Chapter 12:
+### Chapter 10: Machine Learning Interoperability
 
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chapter10)
 
-### Community Recipes
+### Chapter 11: Building MLOps Command-Line Tools
 
-This section includes "community" recipes.  Many "may" be included in the book if timing works out.
+- [Code in this repo](https://github.com/paiml/practical-mlops-book/tree/main/chapter11)
 
-* [Jason Adams: FastAPI Sentiment Analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
-* [James Salafatinos:  Tensorflow.js real-time image classification](https://github.com/james-salafatinos/webcam-ml)
-* [Nikhil Bhargava:  Sneaker Price Predict](https://github.com/nikhil-bhargava/ids-706-fp)
-* [Medical Expenditures](https://github.com/joekrinke15/MLModelDeployment)
-* [Flask Salary Predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
-* [Covid Predictor](https://github.com/jingyi-xie/covid-prediction)
-* [Absenteeism at Work](https://github.com/shangwenyan/IDS721FinalProject)
-* [Chest X-Ray on Baidu](https://github.com/Valarzz/Lung-Health-System)
-* [Streamlit Traffic Detection](https://github.com/YUA1024/YUA1024)
+### Chapter 12: Machine Learning Engineering and MLOps Case Studies
 
-### References
+- Case studies are in the book.
 
-* [Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860)
-* [Python for DevOps](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X)
-* [Cloud Computing for Data](https://paiml.com/docs/home/books/cloud-computing-for-data/)
+## Community recipes
 
-#### Next Steps:  Take Coursera MLOps Course
+Contributed by readers.
 
-![cloud-specialization](https://user-images.githubusercontent.com/58792/121041040-650ca180-c780-11eb-956e-8d1ecb134641.png)
+- [Jason Adams: FastAPI sentiment analysis with Kubernetes](https://github.com/Jason-Adam/sentiment-service)
+- [James Salafatinos: TensorFlow.js real-time image classification](https://github.com/james-salafatinos/webcam-ml)
+- [Nikhil Bhargava: Sneaker price predict](https://github.com/nikhil-bhargava/ids-706-fp)
+- [Medical expenditures](https://github.com/joekrinke15/MLModelDeployment)
+- [Flask salary predictor](https://github.com/YisongZou/Flask-Salary-Predictor-with-Random-Forest-Algorithm)
+- [Covid predictor](https://github.com/jingyi-xie/covid-prediction)
+- [Absenteeism at work](https://github.com/shangwenyan/IDS721FinalProject)
+- [Chest X-ray on Baidu](https://github.com/Valarzz/Lung-Health-System)
+- [Streamlit traffic detection](https://github.com/YUA1024/YUA1024)
 
-* [Take the Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
+## More from the authors
 
-
-* [✨Pragmatic AI Labs builds courses on edX](https://insight.paiml.com/d69)
-* [ 💬 Join our Discord community](https://discord.gg/ZrjWxKay)
+- [Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860) · [Python for DevOps](https://github.com/paiml/python_devops_book) · [Cloud Computing for Data](https://paiml.com/docs/home/books/cloud-computing-for-data/)
+- [Noah Gift on GitHub](https://github.com/noahgift) · [Pragmatic AI Labs](https://paiml.com)
 
 <!-- funnel:start -->
 ---
 
-**Learn MLOps end to end:** [Machine Learning with Databricks and MLflow (Coursera)](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book) · [MLOps specialization, Duke (Coursera)](https://www.coursera.org/specializations/mlops-machine-learning-duke?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book) · [Machine Learning Operations program (edX)](https://www.edx.org/certificates/professional-certificate/ai-machine-learning-operations?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book)
-
-More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs: [All 20 specializations](https://lnkd.in/e9x5JVuN) · [Get the newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book)
+**Start with a specialization:** [All 25+ specializations](https://lnkd.in/e9x5JVuN) · [Learn on edX](https://www.edx.org/school/ai?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book) · [Get the newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=practical_mlops_book)
 <!-- funnel:end -->
