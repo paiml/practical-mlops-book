@@ -1,0 +1,41 @@
+# Emits the `gate` status check required by the paiml org ruleset "Green Main".
+#
+# Without a job whose NAME is literally `gate`, every PR in this repo reports
+# mergeStateStatus: BLOCKED while every visible check is green -- the missing
+# context is one the repo cannot produce, so no contributor can unblock it.
+#
+# The job name below IS the status-check context. Renaming it to something
+# friendlier silently re-breaks merging for the whole repo.
+name: Gate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  gate:
+    name: gate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install YAML parser
+        run: python3 -m pip install --quiet pyyaml
+
+      # Probe the instrument before trusting it: every checker is fed an input
+      # it MUST reject. A checker that cannot fail would make this gate a green
+      # light that measures nothing.
+      - name: Gate self-test (every checker must reject a broken fixture)
+        run: python3 ci/gate.py --self-test
+
+      # Each check prints its denominator and fails when it inspected 0 files.
+      - name: Gate checks
+        run: python3 ci/gate.py
